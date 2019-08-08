@@ -1,0 +1,14 @@
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\bin\Debug\netcoreapp2.2\ScreenProject.deps.json
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\bin\Debug\netcoreapp2.2\ScreenProject.runtimeconfig.json
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\bin\Debug\netcoreapp2.2\ScreenProject.runtimeconfig.dev.json
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\bin\Debug\netcoreapp2.2\ScreenProject.dll
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\bin\Debug\netcoreapp2.2\ScreenProject.pdb
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.csprojAssemblyReference.cache
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.csproj.CoreCompileInputs.cache
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.RazorAssemblyInfo.cache
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.RazorAssemblyInfo.cs
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.AssemblyInfoInputs.cache
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.AssemblyInfo.cs
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.RazorTargetAssemblyInfo.cache
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.dll
+C:\Users\anas ziq\source\repos\ScreenProject\ScreenProject\obj\Debug\netcoreapp2.2\ScreenProject.pdb
